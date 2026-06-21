@@ -1,30 +1,50 @@
-<h1 align="center">Zhang Shuran</h1>
+# Zhang Shuran
 
-<p align="center">
-  Undergraduate student at Sun Yat-sen University · Robust perception · Multimodal learning · Reproducible AI systems
-</p>
+Undergraduate student at Sun Yat-sen University  
+Computer Vision · Multimodal Learning · Robust Perception · Video Physics Evaluation
 
-<p align="center">
-  <a href="mailto:zhangshr26@mail2.sysu.edu.cn">Email</a> ·
-  <a href="https://github.com/Shuran-z">GitHub</a>
-</p>
+I am interested in building reliable AI systems for visual understanding, repository reasoning, and physics-aware evaluation. My recent work focuses on robustness benchmarks, multimodal reasoning, video-language grounding, and reproducible AI engineering.
 
-## Focus
+## Research interests
 
-- Robust perception benchmarks for WiFi sensing, computer vision, and multimodal systems.
-- Video and physics-aware evaluation, including motion, temporal grounding, and generated-video reliability.
-- Reproducible research tooling: experiment protocols, result tables, figures, logs, and release packages.
+- Computer vision and multimodal learning
+- Robust perception and benchmark construction
+- Video-language temporal grounding
+- Physics-aware evaluation for generated videos
+- Repository-level AI agents and reproducible software analysis
 
-## Repositories
+## Selected projects
 
-| Repository | Visibility | Scope |
-| --- | --- | --- |
-| `Wifi-Csi-Robustbench` | Private | WiFi CSI human-sensing robustness benchmark under deployment-style corruptions. |
-| `GitReproLab` | Private | Evidence-grounded assistant for reproducing, diagnosing, and understanding GitHub repositories. |
-| [`claude-code-vscode-zh-cn-patch`](https://github.com/Shuran-z/claude-code-vscode-zh-cn-patch) | Public | Unofficial Chinese localization patcher for the Claude Code VS Code extension. |
-| [`Codex-Pro`](https://github.com/Shuran-z/Codex-Pro) | Public | Codex-related tooling and experiments. |
-| `MRPC-2025-homework` | Private | Course and homework archive. |
+### GitReproLab
 
-## Current Direction
+Private project.  
+Evidence-grounded assistant for reproducing, diagnosing, and understanding GitHub repositories.
 
-I am building compact benchmark and reproduction workflows that turn model experiments into auditable code, metrics, figures, and reports.
+It focuses on repository inspection, environment diagnosis, dependency reasoning, error localization, and codebase-level explanation. The goal is to make repository reproduction less dependent on guesswork and more grounded in files, logs, commands, and verifiable evidence.
+
+### WiFi CSI RobustBench
+
+A benchmark-oriented project for evaluating the robustness of WiFi CSI based sensing models under distribution shift, noise, perturbation, and cross-domain conditions.
+
+### UniversalPhysicsEval
+
+A unified evaluation framework for estimating physical parameters from generated videos using segmentation-based observations, camera or scene priors, and dynamics fitting.
+
+### Video-Language Query Localization
+
+A CLIP and Qwen-VL based system for temporal grounding in videos, with experiments on TACoS and Charades-STA.
+
+## Skills
+
+Python · C++ · PyTorch · Computer Vision · Multimodal Models · Benchmarking · GitHub Automation · LaTeX
+
+## GitHub statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuran-z&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuran-z&layout=compact&hide_border=true)
+
+## Contact
+
+Email: zhangshr26@mail2.sysu.edu.cn  
+GitHub: https://github.com/Shuran-z
